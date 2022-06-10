@@ -1,0 +1,18 @@
+Digitar no google:
+driver jdbc mysql
+
+Entrar no site de download do mysql
+
+Selecionar a opção "Platform independent"
+
+Fazer o download ("No thanks, just start my download")
+
+Extrair o zip
+
+Criar pasta lib dentro da pasta com os códigos, para armazenar os arquivos das bibliotecas nela
+
+Ir no vsc
+
+Expandir a aba Java Project (no menu lateral esquerdo). Se ela não tiver aparecido, cria um arquivo java ou abre um arquivo java para o VS Code já executar os plugins java
+
+adiciona o .jar do Driver do MySQL em "Referenced Libraries"
